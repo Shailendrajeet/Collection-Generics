@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shail
+ *
+ */
+module CollectionAndGenerics {
+}
